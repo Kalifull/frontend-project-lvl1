@@ -29,4 +29,4 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: make install
       - name: Run linter
-        run: make lint
+      - run: make lint
