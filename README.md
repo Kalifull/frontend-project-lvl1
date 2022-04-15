@@ -9,7 +9,7 @@ This repository contains sources code my first project: **"Brain games".**
 **Brain games** - this is a game which you win after 3 correct answers. Good luck!
 
 ## How to install:
-1. Make sure you have installed [Node.js](https://nodejs.org/en/) no lower version 12 ```node -v```;
+1. Make sure you have installed [Node.js](https://nodejs.org/en/) no lower version 12: ```node -v```;
 2. Clone repository: ```git@github.com:Kalifull/frontend-project-lvl1.git```;
 3. Change directory to frontend-project-lvl1;
 4. Run the command: ```make install```;
@@ -25,7 +25,7 @@ $ nmp link
  * ```brain-even``` - You are shown a random number. You must answer yes if the number is even, or no if it is odd;
  * ```brain-calc``` - The simple calculator game.
 ### Games demonstration:
- ## 1. Brain-even
+ ### 1. Brain-even
  Define is number even.
 
 [![asciicast](https://asciinema.org/a/487810.svg)](https://asciinema.org/a/487810)
