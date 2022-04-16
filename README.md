@@ -33,3 +33,7 @@ Define is number even.
 Calculate 2 numbers.
 
 [![asciicast](https://asciinema.org/a/N7hmUA7TnlmJXSht1D5s8tDdm.svg)](https://asciinema.org/a/N7hmUA7TnlmJXSht1D5s8tDdm)
+### 3. Brain-gcd
+Find greatest common divisor of 2 numbers.
+
+[![asciicast](https://asciinema.org/a/8jYrlNH3TOoQ6BHrIBnW4SQoH.svg)](https://asciinema.org/a/8jYrlNH3TOoQ6BHrIBnW4SQoH)
