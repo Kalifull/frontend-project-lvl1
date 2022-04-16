@@ -9,9 +9,9 @@ publish:
 
 make lint:
 	npx eslint . # Запуск проверки ошибок кода.
-	
+
 brain-even:
-	node bim/brain-even.js # Запуск игры brain-even.
+	node bin/brain-even.js # Запуск игры brain-even.
 
 brain-calc:
-	node bim/brain-calc.js # Запуск игры brain-calc.
+	node bin/brain-calc.js
