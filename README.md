@@ -24,7 +24,7 @@ $ nmp link
  * ```brain-games``` - The game just greets the user;
  * ```brain-even``` - You are shown a random number. You must answer yes if the number is even, or no if it is odd;
  * ```brain-calc``` - The simple calculator game.
-### Games demonstration:
+## Games demonstration:
  ### 1. Brain-even
  Define is number even.
 
