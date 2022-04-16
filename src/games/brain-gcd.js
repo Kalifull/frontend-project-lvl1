@@ -12,7 +12,7 @@ const getCorrectAnswer = () => {
   const firstNumber = getRandomInt(0, maxFirstNumber);
   const secondNumber = getRandomInt(0, maxSecondNumber);
   const question = `${firstNumber} ${secondNumber}`;
-  const correctAnswer = gcd(firstNumber, secondNumber);
+  const correctAnswer = gcd(firstNumber, secondNumber).toString();
   return [question, correctAnswer];
 };
 
