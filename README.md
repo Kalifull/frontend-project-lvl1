@@ -26,14 +26,18 @@ $ nmp link
  * ```brain-calc``` - The simple calculator game.
 ## Games demonstration:
 ### 1. Brain-even
-Define is number even.
+The player is shown a random number. He needs to answer yes if the number is even, or no if it is odd.
 
 [![asciicast](https://asciinema.org/a/487810.svg)](https://asciinema.org/a/487810)
 ### 2. Brain-calc
-Calculate 2 numbers.
+The player is shown a random mathematical expression that needs to be calculated and the correct answer written down.
 
 [![asciicast](https://asciinema.org/a/N7hmUA7TnlmJXSht1D5s8tDdm.svg)](https://asciinema.org/a/N7hmUA7TnlmJXSht1D5s8tDdm)
 ### 3. Brain-gcd
-Find greatest common divisor of 2 numbers.
+The player is shown two random numbers, needs to find the greatest common divisor and write down the correct answer.
 
 [![asciicast](https://asciinema.org/a/8jYrlNH3TOoQ6BHrIBnW4SQoH.svg)](https://asciinema.org/a/8jYrlNH3TOoQ6BHrIBnW4SQoH)
+### 4. Brain-progression
+The player is shown a series of numbers forming an arithmetic progression. The random number is replaced by two dots. The player must determine this number.
+
+[![asciicast](https://asciinema.org/a/N8ryLSKqsxD13cvB5WkqJJKry.svg)](https://asciinema.org/a/N8ryLSKqsxD13cvB5WkqJJKry)
