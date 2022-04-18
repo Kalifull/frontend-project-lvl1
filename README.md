@@ -22,8 +22,12 @@ $ nmp link
 ```
 ## Games decription:
  * ```brain-games``` - The game just greets the user;
- * ```brain-even``` - You are shown a random number. You must answer yes if the number is even, or no if it is odd;
- * ```brain-calc``` - The simple calculator game.
+ * ```brain-even``` - You are shown a random number. You must answer "yes" if the number is even, "or" no if it is odd;
+ * ```brain-calc``` - The simple calculator game;
+ * ```brain-gcd``` - Find greatest common divisor of 2 numbers;
+ * ```brain-progression``` - Find missing number in progression;
+ * ```brain-prime``` - Define is number prime.
+
 ## Games demonstration:
 ### 1. Brain-even
 The player is shown a random number. He needs to answer yes if the number is even, or no if it is odd.
@@ -41,3 +45,7 @@ The player is shown two random numbers, needs to find the greatest common diviso
 The player is shown a series of numbers forming an arithmetic progression. The random number is replaced by two dots. The player must determine this number.
 
 [![asciicast](https://asciinema.org/a/N8ryLSKqsxD13cvB5WkqJJKry.svg)](https://asciinema.org/a/N8ryLSKqsxD13cvB5WkqJJKry)
+### 5. Brain-prime
+The player is shown a random number. He needs to answer "yes" if the number is prime and "no" if not.
+
+[![asciicast](https://asciinema.org/a/XMPMqGizTO5blmObJUHsdDYFM.svg)](https://asciinema.org/a/XMPMqGizTO5blmObJUHsdDYFM)
