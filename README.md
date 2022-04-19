@@ -4,6 +4,7 @@
 [![Linter](https://github.com/Kalifull/frontend-project-lvl1/workflows/linter/badge.svg)](https://github.com/Kalifull/frontend-project-lvl1/actions/workflows/linter-check.yml)
 # Welcome to the Brain Games!
 Done as part of a project on [Hexlet](https://ru.hexlet.io/).
+Technology stack: Node.js, Commander.JS, npm, ESLint (airbnb), Prettier, Git, GitHub, GitHub Actions.
 ## Description:
 This repository contains sources code my first project: **"Brain games".**
 **Brain games** - this is a game which you win after 3 correct answers. Good luck!
