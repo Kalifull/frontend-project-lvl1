@@ -23,7 +23,7 @@ $ nmp link
 ```
 ## Games decription:
  * ```brain-games``` - The game just greets the user;
- * ```brain-even``` - You are shown a random number. You must answer "yes" if the number is even, "or" no if it is odd;
+ * ```brain-even``` - You are shown a random number. You must answer "yes" if the number is even, or "no" if it is odd;
  * ```brain-calc``` - The simple calculator game;
  * ```brain-gcd``` - Find greatest common divisor of 2 numbers;
  * ```brain-progression``` - Find missing number in progression;
